@@ -90,7 +90,7 @@ classDiagram
     PedidoDistribucion <|-- PedidoPoblacion : Hereda
     GestorCavaDan o-- LoteInventario : Gestiona matriz 4x5
     GestorCavaDan o-- PedidoDistribucion : Procesa historial
-    ```
+```
 
 ---
 
